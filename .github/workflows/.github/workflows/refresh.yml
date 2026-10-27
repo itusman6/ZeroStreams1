@@ -1,12 +1,13 @@
+
 name: Refresh live playlist
 
 on:
   schedule:
-    # Off-peak minute (avoids the congested :00 slot where runs get delayed/dropped)
-    - cron: '17 * * * *'
+    - cron: '23 * * * *'
   workflow_dispatch:
   push:
-    branches: [main]
+    branches:
+      - main
     paths:
       - 'scraper.py'
       - 'metadata.py'
@@ -16,7 +17,6 @@ on:
 
 permissions:
   contents: write
-  actions: write   # needed for the keepalive step below
 
 concurrency:
   group: playlist-refresh
@@ -26,6 +26,7 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     timeout-minutes: 25
+
     steps:
       - uses: actions/checkout@v4
 
@@ -44,29 +45,21 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: playlist-diagnostics
-          path: |
-            status.json
+          path: status.json
+          if-no-files-found: warn
           retention-days: 7
-          if-no-files-found: ignore
 
-      - name: Commit playlist
+      - name: Commit playlist and diagnostics
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
 
-          # Only commit playlist changes (status.json changes every run, so it is not a trigger)
-          git add playlist.m3u
+          git add -f -- playlist.m3u status.json
+
           if git diff --cached --quiet; then
-            echo 'Playlist unchanged; skipping repository update.'
-          else
-            git commit -m 'Refresh live playlist'
-            git pull --rebase origin "${GITHUB_REF_NAME}" || true
-            git push
+            echo 'No playlist or diagnostic changes to commit.'
+            exit 0
           fi
 
-      # Prevents GitHub from auto-disabling the schedule after 60 days of no repo activity
-      - name: Keep scheduled workflow alive
-        if: github.event_name == 'schedule'
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: gh workflow enable refresh.yml --repo "$GITHUB_REPOSITORY" || true
+          git commit -m 'Refresh live playlist'
+          git push
