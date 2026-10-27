@@ -11,14 +11,14 @@ https://temp.formaturamaxi.com.br/main.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/aew
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/aew.m3u8
-#EXTINF:-1 tvg-id="zerostreams.3418396e91fb6b60" tvg-name="Delaware vs Western Kentucky" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | Delaware vs Western Kentucky
+#EXTINF:-1 tvg-id="zerostreams.d5adb935a1ff6bde" tvg-name="Delaware vs Western Kentucky" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | Delaware vs Western Kentucky
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 tvg-id="zerostreams.589b236ca69f3898" tvg-name="Sam Houston vs Missouri State" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | Sam Houston vs Missouri State
+https://tedesco.formaturamaxi.com.br/ncaa.m3u8
+#EXTINF:-1 tvg-id="zerostreams.99dfcd9531f8666b" tvg-name="Sam Houston vs Missouri State" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | Sam Houston vs Missouri State
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/ncaa2.m3u8
+https://tedesco.formaturamaxi.com.br/ncaa2.m3u8
 #EXTINF:-1 tvg-id="zerostreams.41df34b610ddfe04" tvg-name="TNA" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | TNA
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -27,10 +27,10 @@ https://admin2.formaturamaxi.com.br/ppv.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/mlb-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 tvg-id="zerostreams.06ba56c1da77b573" tvg-name="Milwaukee Brewers vs Tampa Bay Rays" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/mlb.png" group-title="MLB",MLB | Milwaukee Brewers vs Tampa Bay Rays — Feed 2
+#EXTINF:-1 tvg-id="zerostreams.f3340bcf197f0b1f" tvg-name="Milwaukee Brewers vs Tampa Bay Rays" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/mlb.png" group-title="MLB",MLB | Milwaukee Brewers vs Tampa Bay Rays — Feed 2
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/mlb-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/mlbalt.m3u8
+https://tedesco.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="zerostreams.bfca3ca6eccd14c7" tvg-name="MotoGP - Australian Grand Prix" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/motogp.png" group-title="MotoGP",MotoGP - Australian Grand Prix
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/motogp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
