@@ -51,30 +51,38 @@ https://admin2.formaturamaxi.com.br/nba7.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba12.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="NBA — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA — Shared Feed
+#EXTINF:-1 tvg-id="zerostreams.ac8f4b28f5979944" tvg-name="Miami Heat vs Atlanta Hawks" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Miami Heat vs Atlanta Hawks — Feed 1
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/heat.m3u8
+#EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="Miami Heat vs Atlanta Hawks" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Miami Heat vs Atlanta Hawks — Feed 2
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 tvg-id="zerostreams.69f82e9ce08bb5a8" tvg-name="NBA2 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA2 — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba2.m3u8
 #EXTINF:-1 tvg-id="zerostreams.9839392d458c9fcc" tvg-name="NBA6 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA6 — Shared Feed — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba6.m3u8
 #EXTINF:-1 tvg-id="zerostreams.cd0bfea2d880551a" tvg-name="NBA6 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA6 — Shared Feed — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-6
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nba6.m3u8
 #EXTINF:-1 tvg-id="zerostreams.4e05893217110266" tvg-name="Orlando Magic vs Toronto Raptors" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Orlando Magic vs Toronto Raptors
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba5.m3u8
+#EXTINF:-1 tvg-id="zerostreams.f1320cc92c40b210" tvg-name="Philadelphia 76ers vs Indiana Pacers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Philadelphia 76ers vs Indiana Pacers
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba4.m3u8
 #EXTINF:-1 tvg-id="zerostreams.f53396dafb2f0125" tvg-name="San Antonio Spurs vs Utah Jazz" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | San Antonio Spurs vs Utah Jazz
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba10.m3u8
+#EXTINF:-1 tvg-id="zerostreams.69f82e9ce08bb5a8" tvg-name="Washington Wizards vs Cleveland Cavaliers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Washington Wizards vs Cleveland Cavaliers
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba2.m3u8
 #EXTINF:-1 tvg-id="zerostreams.1eecf4447072846c" tvg-name="Calgary Flames vs Edmonton Oilers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Calgary Flames vs Edmonton Oilers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
