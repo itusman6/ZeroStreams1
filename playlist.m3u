@@ -1,16 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="zerostreams.67c2d43e69cedf04" tvg-name="F1 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/formula-1.png" group-title="Formula 1",Formula 1 | F1 — Shared Feed
+#EXTINF:-1 tvg-id="zerostreams.d937ef96b42558f3" tvg-name="F1 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/formula-1.png" group-title="Formula 1",Formula 1 | F1 — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/f1.m3u8
-#EXTINF:-1 tvg-id="zerostreams.edd9a70918bfbca2" tvg-name="Canelo vs Mbilli: Mexico vs The World" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | Canelo vs Mbilli: Mexico vs The World — Feed 1
+https://admin2.formaturamaxi.com.br/f1.m3u8
+#EXTINF:-1 tvg-id="zerostreams.41df34b610ddfe04" tvg-name="Canelo vs Mbilli: Mexico vs The World" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | Canelo vs Mbilli: Mexico vs The World
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/ppv.m3u8
-#EXTINF:-1 tvg-id="zerostreams.53cc2c5341560ff2" tvg-name="Canelo vs Mbilli: Mexico vs The World" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | Canelo vs Mbilli: Mexico vs The World — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/ppvalt.m3u8
+https://admin2.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 tvg-id="zerostreams.ab043270c6ca282b" tvg-name="Kansas State vs Colorado" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | Kansas State vs Colorado
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
