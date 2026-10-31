@@ -11,6 +11,10 @@ https://admin2.formaturamaxi.com.br/f1tv.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/ppv.m3u8
+#EXTINF:-1 tvg-id="zerostreams.ab043270c6ca282b" tvg-name="Kansas State vs Colorado" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | Kansas State vs Colorado
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/ncaa15.m3u8
 #EXTINF:-1 tvg-id="zerostreams.d5adb935a1ff6bde" tvg-name="NCAA — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | NCAA — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -27,10 +31,6 @@ https://admin2.formaturamaxi.com.br/ncaa11.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/ncaa13.m3u8
-#EXTINF:-1 tvg-id="zerostreams.ab043270c6ca282b" tvg-name="NCAA15 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | NCAA15 — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa15.m3u8
 #EXTINF:-1 tvg-id="zerostreams.589b236ca69f3898" tvg-name="NCAA2 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | NCAA2 — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -67,6 +67,10 @@ https://tedesco.formaturamaxi.com.br/ncaa9.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/ncaa14.m3u8
+#EXTINF:-1 tvg-id="zerostreams.975dd50a853f014f" tvg-name="Ohio State vs USC" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | Ohio State vs USC
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/ncaa16.m3u8
 #EXTINF:-1 tvg-id="zerostreams.3fc8640d17e3b038" tvg-name="Milwaukee Brewers vs Tampa Bay Rays" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/mlb.png" group-title="MLB",MLB | Milwaukee Brewers vs Tampa Bay Rays — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/mlb-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
