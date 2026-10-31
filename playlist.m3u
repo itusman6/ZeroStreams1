@@ -43,10 +43,6 @@ https://admin.formaturamaxi.com.br/nba.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f53396dafb2f0125" tvg-name="Denver Nuggets vs Phoenix Suns" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Denver Nuggets vs Phoenix Suns
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba10.m3u8
 #EXTINF:-1 tvg-id="zerostreams.a96973e26e41e7e4" tvg-name="Detroit Pistons vs Brooklyn Nets" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Detroit Pistons vs Brooklyn Nets
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -63,18 +59,30 @@ https://admin2.formaturamaxi.com.br/nba6.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba8.m3u8
-#EXTINF:-1 tvg-id="zerostreams.94dde555006ead41" tvg-name="Los Angeles Lakers vs Golden State Warriors" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Los Angeles Lakers vs Golden State Warriors
+#EXTINF:-1 tvg-id="zerostreams.94dde555006ead41" tvg-name="Los Angeles Lakers vs Golden State Warriors" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Los Angeles Lakers vs Golden State Warriors — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nba9.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f1320cc92c40b210" tvg-name="New York Knicks vs Philadelphia 76ers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | New York Knicks vs Philadelphia 76ers
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
+#EXTINF:-1 tvg-id="zerostreams.b7bf62472366ca2c" tvg-name="Los Angeles Lakers vs Golden State Warriors" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Los Angeles Lakers vs Golden State Warriors — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.4e05893217110266" tvg-name="Orlando Magic vs Toronto Raptors" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Orlando Magic vs Toronto Raptors
+https://admin2.formaturamaxi.com.br/lakers.m3u8
+#EXTINF:-1 tvg-id="zerostreams.f711b92fe87a4639" tvg-name="Los Angeles Lakers vs Golden State Warriors" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Los Angeles Lakers vs Golden State Warriors — Feed 3
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba9.m3u8
+#EXTINF:-1 tvg-id="zerostreams.4e05893217110266" tvg-name="NBA5 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA5 — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba5.m3u8
+#EXTINF:-1 tvg-id="zerostreams.6a928fecc7892996" tvg-name="New York Knicks vs Philadelphia 76ers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | New York Knicks vs Philadelphia 76ers — Feed 1
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/knicks.m3u8
+#EXTINF:-1 tvg-id="zerostreams.f1320cc92c40b210" tvg-name="New York Knicks vs Philadelphia 76ers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | New York Knicks vs Philadelphia 76ers — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba4.m3u8
 #EXTINF:-1 tvg-id="zerostreams.7ed61ed6c4d59f2d" tvg-name="New Jersey Devils vs Vegas Golden Knights" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | New Jersey Devils vs Vegas Golden Knights
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
